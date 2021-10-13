@@ -1,0 +1,5 @@
+- Change the default branch name during repo creation
+git config --global init.defaultBranch <name>
+
+- Change the name of the current branch
+git branch -m <name>

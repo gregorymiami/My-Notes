@@ -1,0 +1,16 @@
+- Key shortcuts
+Control comma: Settings
+Enter: Playhead goes back to the start
+Select loop + semicolon: loop goes to play head
+Command + t: cut a track, scissor tool
+(Option + c) / (alt + c): color bar for changing loop colors
+Command + 2: open mixer
+Command + w: close mixer (or any window)
+S or m: mute and solo tracks (use up and down arrow to browse tracks)
+O: open / close loop browser
+Command d: when a track is selected, creates a copy of that track with the same effects / buses
+Alt + command + n: new track
+
+- Tips
+- Leave space at the end of a song if it doesn’t fade
+- -1.5 is too loud for the master volume
