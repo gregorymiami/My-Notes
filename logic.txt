@@ -11,6 +11,9 @@ O: open / close loop browser
 Command d: when a track is selected, creates a copy of that track with the same effects / buses
 Alt + command + n: new track
 
+- Rescan Plugins
+Logic Pro > Preferences > Plug-in Manager
+
 - Tips
 - Leave space at the end of a song if it doesn’t fade
 - -1.5 is too loud for the master volume
